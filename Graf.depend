@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553430460 source:c:\users\ioana\desktop\graf\main.cpp
+	"graf.h"
+
+1553413137 c:\users\ioana\desktop\graf\include\graf.h
+	<iostream>
+
+1553432437 source:c:\users\ioana\desktop\graf\src\graf.cpp
+	"graf.h"
+	<stdlib.h>
+
